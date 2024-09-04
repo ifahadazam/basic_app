@@ -20,7 +20,7 @@ class ListPage extends StatelessWidget {
                 leading: Text(
                   'Quote $index',
                   style: const TextStyle(
-                    fontSize: 20,
+                    fontSize: 22,
                   ),
                 ),
                 trailing: InkWell(
